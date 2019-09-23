@@ -1,0 +1,4 @@
+sceneSetups:
+- path: IM2073/scene1.unity
+  isLoaded: 1
+  isActive: 1
